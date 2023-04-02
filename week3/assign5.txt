@@ -1,4 +1,12 @@
 a. char ****k
    ii) k is a a pointer to a pointer to a pointer to a pointer to a char
 
-b. 
+b. void main()
+{
+int k = 5;
+int *p = &k;
+int **m = &p;
+**m = 6;
+printf("%d\n", k);
+}
+    iii)6
