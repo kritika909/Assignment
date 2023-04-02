@@ -1,0 +1,4 @@
+a. char ****k
+   ii) k is a a pointer to a pointer to a pointer to a pointer to a char
+
+b. 
